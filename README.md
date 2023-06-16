@@ -12,7 +12,7 @@ The project is about analyzing the hiring process of a company using the provide
 * Checking for outliers
 * Removing outliers
 * Drawing Data Summary
- 
+
 ## Finding Insights
 
 ### 1) Hiring: Process of intaking of people into an organization for different kinds of positions.
